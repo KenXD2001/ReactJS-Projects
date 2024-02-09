@@ -1,0 +1,12 @@
+** This are all the Projects  that I have worked on so far **
+
+1. Simple Counter App
+2. To-Do App with React and Redux
+3. E-commerce Website
+4. Weather App with API Integration
+5. Real-time Chat Application
+6. Portfolio Website
+7. Task Management System
+8. Authentication and Authorization System
+9. React Calculator
+10. Movie Search App

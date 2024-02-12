@@ -1,0 +1,54 @@
+authentication-app/
+|--frontend/
+|----public/
+|------index.html
+|----src/
+|------components/
+|--------Login.js
+|--------Signup.js
+|------pages/
+|--------Home.js
+|--------Dashboard.js
+|------services/
+|--------authService.js
+|------App.css
+|------App.js
+|------index.js
+|----package.json
+|--backend/
+|----controllers/
+|------authController.js
+|----models/
+|------User.js
+|----routes/
+|------authRoutes.js
+|----server.js
+|--package.json
+
+
+authentication-app/
+  frontend/
+    public/
+      index.html
+    src/
+      components/
+        Login.js
+        Signup.js
+      pages/
+        Home.js
+        Dashboard.js
+      services/
+        authService.js
+      App.css
+      App.js
+      index.js
+    package.json
+  backend/
+    controllers/
+      authController.js
+    models/
+      User.js
+    routes/
+      authRoutes.js
+    server.js
+  package.json

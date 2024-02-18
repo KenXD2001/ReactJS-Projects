@@ -61,7 +61,7 @@ const ProductPage = () => {
 
                 </div>
                 <div className='right-section'>
-                    <div className='Chetak-image'>
+                    <div className='chetak-image'>
                         <img src={renderVehicleImage()} alt='' />
                     </div>
                 </div>

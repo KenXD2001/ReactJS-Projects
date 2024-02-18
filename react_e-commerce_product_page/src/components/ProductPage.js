@@ -26,7 +26,7 @@ const ProductPage = () => {
     };
 
     return (
-        <div>
+        <div className="product-page">
             <div className='header-bar'>
                 <div className='header-logo'>
                     <img src={ChetakLogo} className="chetak-logo" alt="Chetak-Logo" />
@@ -50,7 +50,7 @@ const ProductPage = () => {
                 <div className='left-section'>
                     <h2>CHETAK PREMIUM</h2>
                     <h1>S 150 ABS</h1>
-                    <p>Chetak Premium S 150 ABS is a high performance two wheelers</p>
+                    <p>The Bajaj Chetak Premium electric scooter blends timeless design with modern technology, offering riders a stylish and eco-friendly urban mobility solution. With its sleek metallic finish, intuitive digital display, and seamless smartphone connectivity, it delivers a premium riding experience. Powered by a high-performance lithium-ion battery, it provides smooth acceleration and impressive range, making it perfect for city commuting and leisurely rides alike.</p>
                     <h3>Choose Your Color</h3>
                     <div className='color-select-div'>
                         <button onClick={() => handleColorChange("indigo-blue")} className='indigo-blue slt-btn-style'></button>

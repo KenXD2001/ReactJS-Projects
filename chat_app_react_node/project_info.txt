@@ -1,0 +1,10 @@
+
+Project Title: Chat Application using React and Node
+
+Skills Required:
+1. Node.js
+2. React.js
+3. HTML & CSS
+4. Tailwind CSS
+5. Socket
+6. Express
